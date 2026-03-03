@@ -1,6 +1,6 @@
 <?php 
 // Belajar variable
-$nama ="Muhammad Fadli";
+$nama ="andrew";
 $umur = 17;
 
 
